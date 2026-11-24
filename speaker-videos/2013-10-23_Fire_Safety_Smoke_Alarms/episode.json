@@ -1,0 +1,21 @@
+{
+  "identifier": "cochwy-Fire_Safety_Smoke_Alarms",
+  "title": "Fire Safety Smoke Alarms",
+  "date": "2013-10-23",
+  "season": 2,
+  "repo": "therealwindycity/cheyenne-archives-2008-2013",
+  "release_tag": "speaker-videos-2013-10-23-moke_Alarms",
+  "release_url": "https://github.com/therealwindycity/cheyenne-archives-2008-2013/releases/tag/speaker-videos-2013-10-23-moke_Alarms",
+  "archive_embed_url": "https://archive.org/embed/cochwy-Fire_Safety_Smoke_Alarms",
+  "archive_stream_url": "https://archive.org/download/cochwy-Fire_Safety_Smoke_Alarms/Fire_Safety_Smoke_Alarms.mp4",
+  "cast": [
+    {
+      "speaker": "Speaker_01_Voice_Cluster_01",
+      "clips_count": 1,
+      "size_bytes": 8981947,
+      "zip_url": "https://github.com/therealwindycity/cheyenne-archives-2008-2013/releases/download/speaker-videos-2013-10-23-moke_Alarms/Speaker_01_Voice_Cluster_01_01_clips.zip"
+    }
+  ],
+  "ordinances": [],
+  "turns_count": 1
+}
