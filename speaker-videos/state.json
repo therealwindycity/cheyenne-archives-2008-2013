@@ -25,6 +25,19 @@
       "speakers": 1,
       "clips": 1,
       "status": "published"
+    },
+    "cochwy-Fire_Safety_Smoke_Alarms": {
+      "identifier": "cochwy-Fire_Safety_Smoke_Alarms",
+      "date": "2013-10-23",
+      "title": "Fire Safety Smoke Alarms",
+      "repo": "therealwindycity/cheyenne-archives-2008-2013",
+      "release_tag": "speaker-videos-2013-10-23-moke_Alarms",
+      "release_url": "https://github.com/therealwindycity/cheyenne-archives-2008-2013/releases/tag/speaker-videos-2013-10-23-moke_Alarms",
+      "index_path": "speaker-videos/2013-10-23_Fire_Safety_Smoke_Alarms/SPEAKER_INDEX.md",
+      "episode_json": "speaker-videos/2013-10-23_Fire_Safety_Smoke_Alarms/episode.json",
+      "speakers": 1,
+      "clips": 1,
+      "status": "published"
     }
   }
 }
