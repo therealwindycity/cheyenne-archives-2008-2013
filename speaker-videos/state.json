@@ -12,6 +12,19 @@
       "speakers": 1,
       "clips": 1,
       "status": "published"
+    },
+    "cochwy-Cheyenne_Wyo_Fire_Rescue_Presents_Vehicle_Safety_Kit": {
+      "identifier": "cochwy-Cheyenne_Wyo_Fire_Rescue_Presents_Vehicle_Safety_Kit",
+      "date": "2013-11-22",
+      "title": "Cheyenne (Wyo) Fire & Rescue Presents Vehicle Safety Kit",
+      "repo": "therealwindycity/cheyenne-archives-2008-2013",
+      "release_tag": "speaker-videos-2013-11-22-_Safety_Kit",
+      "release_url": "https://github.com/therealwindycity/cheyenne-archives-2008-2013/releases/tag/speaker-videos-2013-11-22-_Safety_Kit",
+      "index_path": "speaker-videos/2013-11-22_Cheyenne_Wyo_Fire_Rescue_Presents_Vehicle_Safety_/SPEAKER_INDEX.md",
+      "episode_json": "speaker-videos/2013-11-22_Cheyenne_Wyo_Fire_Rescue_Presents_Vehicle_Safety_/episode.json",
+      "speakers": 1,
+      "clips": 1,
+      "status": "published"
     }
   }
 }
