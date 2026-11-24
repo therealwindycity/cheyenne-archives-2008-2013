@@ -1,0 +1,21 @@
+{
+  "identifier": "cochwy-Learn_How_To_Drive_Cheyenne_s_Wyo_Two_Lane_Roundabout",
+  "title": "Learn How To Drive Cheyenne's (Wyo) Two Lane Roundabout",
+  "date": "2013-12-31",
+  "season": 2,
+  "repo": "therealwindycity/cheyenne-archives-2008-2013",
+  "release_tag": "speaker-videos-2013-12-31-_Roundabout",
+  "release_url": "https://github.com/therealwindycity/cheyenne-archives-2008-2013/releases/tag/speaker-videos-2013-12-31-_Roundabout",
+  "archive_embed_url": "https://archive.org/embed/cochwy-Learn_How_To_Drive_Cheyenne_s_Wyo_Two_Lane_Roundabout",
+  "archive_stream_url": "https://archive.org/download/cochwy-Learn_How_To_Drive_Cheyenne_s_Wyo_Two_Lane_Roundabout/Learn_How_To_Drive_Cheyenne_s_Wyo_Two_Lane_Roundabout.mp4",
+  "cast": [
+    {
+      "speaker": "Speaker_01_Voice_Cluster_01",
+      "clips_count": 1,
+      "size_bytes": 131276821,
+      "zip_url": "https://github.com/therealwindycity/cheyenne-archives-2008-2013/releases/download/speaker-videos-2013-12-31-_Roundabout/Speaker_01_Voice_Cluster_01_01_clips.zip"
+    }
+  ],
+  "ordinances": [],
+  "turns_count": 1
+}
