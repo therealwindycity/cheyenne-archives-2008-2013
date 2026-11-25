@@ -103,6 +103,19 @@
       "speakers": 1,
       "clips": 1,
       "status": "published"
+    },
+    "cochwy-City_Of_Cheyenne_Fifth_Penny_Tax": {
+      "identifier": "cochwy-City_Of_Cheyenne_Fifth_Penny_Tax",
+      "date": "2012-10-22",
+      "title": "City Of Cheyenne Fifth Penny Tax",
+      "repo": "therealwindycity/cheyenne-archives-2008-2013",
+      "release_tag": "speaker-videos-2012-10-22-h_Penny_Tax",
+      "release_url": "https://github.com/therealwindycity/cheyenne-archives-2008-2013/releases/tag/speaker-videos-2012-10-22-h_Penny_Tax",
+      "index_path": "speaker-videos/2012-10-22_City_Of_Cheyenne_Fifth_Penny_Tax/SPEAKER_INDEX.md",
+      "episode_json": "speaker-videos/2012-10-22_City_Of_Cheyenne_Fifth_Penny_Tax/episode.json",
+      "speakers": 1,
+      "clips": 1,
+      "status": "published"
     }
   }
 }
