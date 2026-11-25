@@ -1,0 +1,21 @@
+{
+  "identifier": "cochwy-City_Of_Cheyenne_Fifth_Penny_Tax",
+  "title": "City Of Cheyenne Fifth Penny Tax",
+  "date": "2012-10-22",
+  "season": 1,
+  "repo": "therealwindycity/cheyenne-archives-2008-2013",
+  "release_tag": "speaker-videos-2012-10-22-h_Penny_Tax",
+  "release_url": "https://github.com/therealwindycity/cheyenne-archives-2008-2013/releases/tag/speaker-videos-2012-10-22-h_Penny_Tax",
+  "archive_embed_url": "https://archive.org/embed/cochwy-City_Of_Cheyenne_Fifth_Penny_Tax",
+  "archive_stream_url": "https://archive.org/download/cochwy-City_Of_Cheyenne_Fifth_Penny_Tax/City_Of_Cheyenne_Fifth_Penny_Tax.mp4",
+  "cast": [
+    {
+      "speaker": "Speaker_01_Voice_Cluster_01",
+      "clips_count": 1,
+      "size_bytes": 10798164,
+      "zip_url": "https://github.com/therealwindycity/cheyenne-archives-2008-2013/releases/download/speaker-videos-2012-10-22-h_Penny_Tax/Speaker_01_Voice_Cluster_01_01_clips.zip"
+    }
+  ],
+  "ordinances": [],
+  "turns_count": 1
+}
