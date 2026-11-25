@@ -38,6 +38,19 @@
       "speakers": 1,
       "clips": 1,
       "status": "published"
+    },
+    "cochwy-Cheyenne_Wyo._Fire_Rescue_-_Microwave_Safety": {
+      "identifier": "cochwy-Cheyenne_Wyo._Fire_Rescue_-_Microwave_Safety",
+      "date": "2013-10-04",
+      "title": "Cheyenne (Wyo.) Fire & Rescue: Microwave Safety",
+      "repo": "therealwindycity/cheyenne-archives-2008-2013",
+      "release_tag": "speaker-videos-2013-10-04-wave_Safety",
+      "release_url": "https://github.com/therealwindycity/cheyenne-archives-2008-2013/releases/tag/speaker-videos-2013-10-04-wave_Safety",
+      "index_path": "speaker-videos/2013-10-04_Cheyenne_Wyo._Fire_Rescue_Microwave_Safety/SPEAKER_INDEX.md",
+      "episode_json": "speaker-videos/2013-10-04_Cheyenne_Wyo._Fire_Rescue_Microwave_Safety/episode.json",
+      "speakers": 1,
+      "clips": 1,
+      "status": "published"
     }
   }
 }
