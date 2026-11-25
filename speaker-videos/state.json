@@ -64,6 +64,19 @@
       "speakers": 1,
       "clips": 1,
       "status": "published"
+    },
+    "cochwy-Cheyenne_Wyo._Fire_Rescue_-_Fire_Safety_Escape_Plan": {
+      "identifier": "cochwy-Cheyenne_Wyo._Fire_Rescue_-_Fire_Safety_Escape_Plan",
+      "date": "2013-10-04",
+      "title": "Cheyenne (Wyo.) Fire & Rescue: Fire Safety Escape Plan",
+      "repo": "therealwindycity/cheyenne-archives-2008-2013",
+      "release_tag": "speaker-videos-2013-10-04-Escape_Plan",
+      "release_url": "https://github.com/therealwindycity/cheyenne-archives-2008-2013/releases/tag/speaker-videos-2013-10-04-Escape_Plan",
+      "index_path": "speaker-videos/2013-10-04_Cheyenne_Wyo._Fire_Rescue_Fire_Safety_Escape_Plan/SPEAKER_INDEX.md",
+      "episode_json": "speaker-videos/2013-10-04_Cheyenne_Wyo._Fire_Rescue_Fire_Safety_Escape_Plan/episode.json",
+      "speakers": 1,
+      "clips": 1,
+      "status": "published"
     }
   }
 }
