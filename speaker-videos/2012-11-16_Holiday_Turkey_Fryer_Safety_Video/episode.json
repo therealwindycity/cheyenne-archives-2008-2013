@@ -1,0 +1,21 @@
+{
+  "identifier": "cochwy-Holiday_Turkey_Fryer_Safety_Video",
+  "title": "Holiday Turkey Fryer Safety Video",
+  "date": "2012-11-16",
+  "season": 1,
+  "repo": "therealwindycity/cheyenne-archives-2008-2013",
+  "release_tag": "speaker-videos-2012-11-16-afety_Video",
+  "release_url": "https://github.com/therealwindycity/cheyenne-archives-2008-2013/releases/tag/speaker-videos-2012-11-16-afety_Video",
+  "archive_embed_url": "https://archive.org/embed/cochwy-Holiday_Turkey_Fryer_Safety_Video",
+  "archive_stream_url": "https://archive.org/download/cochwy-Holiday_Turkey_Fryer_Safety_Video/Holiday_Turkey_Fryer_Safety_Video.mp4",
+  "cast": [
+    {
+      "speaker": "Speaker_01_Voice_Cluster_01",
+      "clips_count": 1,
+      "size_bytes": 12176830,
+      "zip_url": "https://github.com/therealwindycity/cheyenne-archives-2008-2013/releases/download/speaker-videos-2012-11-16-afety_Video/Speaker_01_Voice_Cluster_01_01_clips.zip"
+    }
+  ],
+  "ordinances": [],
+  "turns_count": 1
+}
