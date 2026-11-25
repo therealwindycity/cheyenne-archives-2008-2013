@@ -1,0 +1,21 @@
+{
+  "identifier": "cochwy-AFire_Stafety_Home_Heating",
+  "title": "AFire Stafety Home Heating",
+  "date": "2013-10-04",
+  "season": 2,
+  "repo": "therealwindycity/cheyenne-archives-2008-2013",
+  "release_tag": "speaker-videos-2013-10-04-ome_Heating",
+  "release_url": "https://github.com/therealwindycity/cheyenne-archives-2008-2013/releases/tag/speaker-videos-2013-10-04-ome_Heating",
+  "archive_embed_url": "https://archive.org/embed/cochwy-AFire_Stafety_Home_Heating",
+  "archive_stream_url": "https://archive.org/download/cochwy-AFire_Stafety_Home_Heating/AFire_Stafety_Home_Heating.mp4",
+  "cast": [
+    {
+      "speaker": "Speaker_01_Voice_Cluster_01",
+      "clips_count": 1,
+      "size_bytes": 8617770,
+      "zip_url": "https://github.com/therealwindycity/cheyenne-archives-2008-2013/releases/download/speaker-videos-2013-10-04-ome_Heating/Speaker_01_Voice_Cluster_01_01_clips.zip"
+    }
+  ],
+  "ordinances": [],
+  "turns_count": 1
+}
