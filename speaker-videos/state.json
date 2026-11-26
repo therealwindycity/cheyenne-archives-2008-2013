@@ -116,6 +116,19 @@
       "speakers": 1,
       "clips": 1,
       "status": "published"
+    },
+    "cochwy-Cheyenne_Fire_Rescue_Offers_These_Halloween_Safety_Tips": {
+      "identifier": "cochwy-Cheyenne_Fire_Rescue_Offers_These_Halloween_Safety_Tips",
+      "date": "2012-10-22",
+      "title": "Cheyenne Fire & Rescue Offers These Halloween Safety Tips",
+      "repo": "therealwindycity/cheyenne-archives-2008-2013",
+      "release_tag": "speaker-videos-2012-10-22-Safety_Tips",
+      "release_url": "https://github.com/therealwindycity/cheyenne-archives-2008-2013/releases/tag/speaker-videos-2012-10-22-Safety_Tips",
+      "index_path": "speaker-videos/2012-10-22_Cheyenne_Fire_Rescue_Offers_These_Halloween_Safet/SPEAKER_INDEX.md",
+      "episode_json": "speaker-videos/2012-10-22_Cheyenne_Fire_Rescue_Offers_These_Halloween_Safet/episode.json",
+      "speakers": 1,
+      "clips": 1,
+      "status": "published"
     }
   }
 }
